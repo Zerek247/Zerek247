@@ -43,14 +43,6 @@
 
 <p align="center"><strong>Java • Spring Boot • React • TypeScript • Node.js • Postgres • MongoDB • Docker • Pentest</strong></p>
 
----
-
-### 📂 Proyectos destacados
-- **E-Commerce (Spring Boot + React)** — API REST, autenticación, Docker.  
-- **Automation Toolkit (Python)** — deploy scripts, tareas programadas.  
-- **Mini Pentest Lab** — entorno local para practicar vulnerabilidades OWASP.  
-
----
 
 ### 📫 Contacto
 <p align="center">
