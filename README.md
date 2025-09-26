@@ -1,6 +1,6 @@
 <!-- Banner responsive centrado -->
 <p align="center">
-  <img src="banner.png" alt="ZEREK — Neon Banner" width="80%">
+  <img src="banner.png" alt="ZEREK — Neon Banner" width="50%">
 </p>
 
 
