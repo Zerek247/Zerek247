@@ -61,7 +61,6 @@
   </a>
 </p>
 
----
 
 ## Operating Systems
 <p align="center">
