@@ -19,7 +19,7 @@
   <img src="banner.png" alt="ZEREK — Neon Banner" width="400" height="500">
 </p>
 
-### 🚀 Resumen profesional
+## 🚀 Resumen profesional
 - 🔧 Backend: **Java + Spring Boot** (APIs REST, seguridad, testing, integración DB).  
 - ⚛️ Frontend: **React** (hooks, SPA, consumo de APIs).  
 - 📦 DevOps: **Docker**, CI (GitHub Actions), despliegues reproducibles.  
@@ -27,7 +27,7 @@
 
 ---
 
-### 🛠 Programming languages
+## 🛠 Programming languages
 <p align="center">
 	<a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,js,py,html,css,php,bash" />
@@ -36,7 +36,7 @@
 
 ---
 
-### Frameworks and Libraries
+## Frameworks and Libraries
 <p align="center">
 	<a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=spring,react,nodejs,bootstrap,angular" />
@@ -45,7 +45,7 @@
 
 ---
 
-### Software and Tools
+## Software and Tools
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
     <img
@@ -63,7 +63,7 @@
 
 ---
 
-### Operating Systems
+## Operating Systems
 <p align="center">
 	<a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,kali,windows" />
@@ -72,7 +72,7 @@
 
 ---
 
-### Databases and Cloud hosting
+## Databases and Cloud hosting
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
     <img
@@ -83,7 +83,7 @@
 
 ---
 
-### 📫 Get in touch
+## 📫 Get in touch
 <p align="center">
   <a href="https://discord.com/users/zerek8086">
     <img src="https://skillicons.dev/icons?i=discord" />
