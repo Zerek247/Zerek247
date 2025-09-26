@@ -15,7 +15,9 @@
   Desarrollador <strong>Java Full-Stack</strong> · Ingeniería de software · <strong>Hacking ético</strong><br/>
   Transformo requisitos en APIs seguras, UIs limpias y despliegues reproducibles.
 </p>
-
+<p align="center">
+  <img src="banner.png" alt="ZEREK — Neon Banner" width="100%" height="500">
+</p>
 ---
 
 ### 🚀 Resumen profesional
