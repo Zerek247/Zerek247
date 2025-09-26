@@ -5,7 +5,7 @@
 
 
 
-## Who am I?
+## Who am I?<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 <!-- ===========================
      WHO AM I — Profesional (Java Full-Stack + Hacking ético)
    =========================== -->
