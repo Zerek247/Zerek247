@@ -18,7 +18,6 @@
 <p align="center">
   <img src="banner.png" alt="ZEREK — Neon Banner" width="400" height="500">
 </p>
----
 
 ### 🚀 Resumen profesional
 - 🔧 Backend: **Java + Spring Boot** (APIs REST, seguridad, testing, integración DB).  
@@ -30,18 +29,10 @@
 
 ### 🛠 Tech stack (iconos estilo tarjeta)
 <p align="center">
-  <img src="icons/java-rounded.png" alt="Java" title="Java" width="56" style="margin:6px" />
-  <img src="icons/springboot-rounded.png" alt="Spring Boot" title="Spring Boot" width="56" style="margin:6px" />
-  <img src="icons/react-rounded.png" alt="React" title="React" width="56" style="margin:6px" />
-  <img src="icons/typescript-rounded.png" alt="TypeScript" title="TypeScript" width="56" style="margin:6px" />
-  <img src="icons/node-dot-js-rounded.png" alt="Node.js" title="Node.js" width="56" style="margin:6px" />
-  <img src="icons/postgresql-rounded.png" alt="Postgres" title="Postgres" width="56" style="margin:6px" />
-  <img src="icons/mongodb-rounded.png" alt="MongoDB" title="MongoDB" width="56" style="margin:6px" />
-  <img src="icons/docker-rounded.png" alt="Docker" title="Docker" width="56" style="margin:6px" />
-  <img src="icons/metasploit-rounded.png" alt="Pentesting" title="Pentesting" width="56" style="margin:6px" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
 </p>
-
-<p align="center"><strong>Java • Spring Boot • React • TypeScript • Node.js • Postgres • MongoDB • Docker • Pentest</strong></p>
 
 
 ### 📫 Contacto
