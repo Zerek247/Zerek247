@@ -7,15 +7,6 @@
 
 ## Who am I?
 
-<!-- ===========================
-     WHO AM I — Profesional
-     Ajusta rutas/links (por ejemplo: reemplaza `tuemail@ejemplo.com`)
-   =========================== -->
-
-<p align="center">
-  <img src="banner.png" alt="ZEREK — Neon Banner" width="100%"/>
-</p>
-
 <h2 align="center">👋 Hola — soy <strong>Zerek247</strong></h2>
 <p align="center">
   Desarrollador **Java Full-Stack** · Ingeniero de software · <strong>Hacking ético</strong> & seguridad aplicada<br/>
