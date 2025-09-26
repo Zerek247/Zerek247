@@ -1,4 +1,9 @@
-![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
+<!-- Banner responsive centrado -->
+<p align="center">
+  <img src="banner/neon-zerek.png" alt="ZEREK — Neon Banner" width="100%">
+</p>
+
+
 
 ## Who am I?
 
