@@ -39,7 +39,7 @@
 ## Frameworks and Libraries
 <p align="center">
 	<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,angular,docker,css,debian,eclipse,figma,html,py" />
+    <img src="https://skillicons.dev/icons?i=spring,react,nodejs,bootstrap,angular" />
   </a>
 </p>
 
