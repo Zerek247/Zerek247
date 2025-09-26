@@ -30,7 +30,7 @@
 ### 🛠 Tech stack
 <p align="center">
 	<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,angular,docker,css,debian,eclipse,figma,html" />
+    <img src="https://skillicons.dev/icons?i=git,github,angular,docker,css,debian,eclipse,figma,html,py" />
   </a>
 </p>
 <p align="center">
