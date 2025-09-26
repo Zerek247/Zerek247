@@ -41,11 +41,11 @@
 
 ---
 
-### 📫 Contacto
+### 📫 Get in touch
 <p align="center">
-  <a href="mailto:tuemail@ejemplo.com">✉️ tuemail@ejemplo.com</a> •
-  <a href="https://www.linkedin.com/in/tuusuario" target="_blank">💼 LinkedIn</a> •
-  <a href="https://zerek.github.io" target="_blank">🌐 Portafolio</a>
+  <a href="https://discord.com/users/zerek8086">
+    <img src="https://skillicons.dev/icons?i=discord" />
+  </a>
 </p>
 
 <p align="center"><em>Siempre aprendiendo, siempre asegurando. ⚡</em></p>
