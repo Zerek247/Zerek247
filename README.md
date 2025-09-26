@@ -16,7 +16,7 @@
   Transformo requisitos en APIs seguras, UIs limpias y despliegues reproducibles.
 </p>
 <p align="center">
-  <img src="a.png" alt="ZEREK — Neon Banner" width="100" height="500">
+  <img src="a.png" alt="ZEREK — Neon Banner" width="300" height="500">
 </p>
 ---
 
