@@ -1,4 +1,8 @@
-![Zerek Logo](https://raw.githubusercontent.com/Zerek247/Zerek247/main/logo.png)
+<!-- Banner responsive centrado -->
+<p align="center">
+  <img src="banner/neon-zerek.png" alt="ZEREK — Neon Banner" width="100%">
+</p>
+
 
 
 ## Who am I?
