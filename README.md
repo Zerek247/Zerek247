@@ -1,4 +1,4 @@
-![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
+<img src="logo.png" alt="Zerek Logo" width="200">
 
 ## Who am I?
 
