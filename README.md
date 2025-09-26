@@ -49,7 +49,7 @@
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
     <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=git,github,docker,idea,vscode,sublime,postman,figma,jira,burpsuite,pbi"
+      src="https://go-skill-icons.vercel.app/api/icons?i=git,github,docker,idea,vscode,sublime,postman,figma,jira,burpsuite,pbi,excel,word,powerpoint"
     />
   </a>
 </p>
