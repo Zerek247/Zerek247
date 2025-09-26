@@ -58,7 +58,7 @@
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
     <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver,mysql,docker,c,vim"
+      src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver,mysql"
     />
   </a>
 </p>
