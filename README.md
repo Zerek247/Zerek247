@@ -3,7 +3,7 @@
   <img src="a.png" alt="ZEREK — Neon Banner" width="100%" height="500">
 </p>
 
-
+---
 
 ## Who am I?      <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 <!-- ===========================
@@ -25,7 +25,7 @@
 - 📦 DevOps: **Docker**, CI (GitHub Actions), despliegues reproducibles.  
 - 🔐 Seguridad: OWASP Top10, análisis de dependencias, pruebas en entornos autorizados.
 
----
+
 
 ## 🛠 Programming languages
 <p align="center">
@@ -34,7 +34,7 @@
   </a>
 </p>
 
----
+
 
 ## Frameworks and Libraries
 <p align="center">
@@ -43,7 +43,7 @@
   </a>
 </p>
 
----
+
 
 ## Software and Tools
 <p align="center">
@@ -70,7 +70,7 @@
   </a>
 </p>
 
----
+
 
 ## Databases and Cloud hosting
 <p align="center">
@@ -81,7 +81,7 @@
   </a>
 </p>
 
----
+
 
 ## 📫 Get in touch
 <p align="center">
