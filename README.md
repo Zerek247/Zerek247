@@ -16,13 +16,8 @@
   Transformo requisitos en APIs seguras, UIs limpias y despliegues reproducibles.
 </p>
 
-<table align="center">
-  <tr>
-    <td>
-      [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-    </td>
-  </tr>
-</table>
+ [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 
 
 ---
