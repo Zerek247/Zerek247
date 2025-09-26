@@ -18,10 +18,7 @@
 
 <p align="center">
   <!-- Badges -->
-  <img alt="Java" src="https://img.shields.io/badge/Java-17-informational?logo=java&logoColor=white&labelColor=111" />
-  <img alt="Spring" src="https://img.shields.io/badge/SpringBoot-3.1-success?logo=spring&logoColor=white&labelColor=111" />
-  <img alt="React" src="https://img.shields.io/badge/React-18-informational?logo=react&logoColor=white&labelColor=111" />
-  <img alt="Pentest" src="https://img.shields.io/badge/Hacking-Ético-critical?logo=metasploit&logoColor=white&labelColor=111" />
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 </p>
 
 ---
