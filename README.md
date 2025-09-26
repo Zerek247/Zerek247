@@ -30,7 +30,7 @@
 ### 🛠 Programming languages
 <p align="center">
 	<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,py,mysql,html,css,php,bash" />
+    <img src="https://skillicons.dev/icons?i=java,js,py,html,css,php,bash" />
   </a>
 </p>
 
@@ -49,6 +49,17 @@
 <p align="center">
 	<a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,kali,windows" />
+  </a>
+</p>
+
+---
+
+### Databases and Cloud hosting
+<p align="center">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver,mysql,docker,c,vim"
+    />
   </a>
 </p>
 
