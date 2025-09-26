@@ -17,9 +17,7 @@
 </p>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,docker,css,debian" />
-  </a>
+  <img src="java.png" alt="ZEREK — Neon Banner" width="100%" height="500">
 </p>
 
 ---
