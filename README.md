@@ -6,6 +6,7 @@
 
 
 ## Who am I?
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 <!-- ===========================
      WHO AM I — Profesional (Java Full-Stack + Hacking ético)
    =========================== -->
