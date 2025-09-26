@@ -1,4 +1,5 @@
-<img src="logo.png" alt="Zerek Logo" width="200">
+![Zerek Logo](https://raw.githubusercontent.com/Zerek247/Zerek247/main/logo.png)
+
 
 ## Who am I?
 
