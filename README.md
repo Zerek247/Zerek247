@@ -46,7 +46,7 @@
   <a href="https://discord.com/users/zerek8086">
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
-	<a href="https://discord.com/users/zerek8086">
+	<a href="https://www.linkedin.com/in/arturo-rmzt">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
