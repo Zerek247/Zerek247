@@ -9,7 +9,7 @@
 <!-- ===========================
      WHO AM I — Profesional (Java Full-Stack + Hacking ético)
    =========================== -->
-<h2 align="center">👋 Hola — soy <strong>Zerek247</strong></h2>
+<h2 align="center">👋 Hola — soy <strong>Zerek</strong></h2>
 
 <p align="center">
   Desarrollador <strong>Java Full-Stack</strong> · Ingeniería de software · <strong>Hacking ético</strong><br/>
