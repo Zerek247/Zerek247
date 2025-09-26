@@ -46,6 +46,9 @@
   <a href="https://discord.com/users/zerek8086">
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
+	<a href="https://discord.com/users/zerek8086">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
 </p>
 
 <p align="center"><em>Siempre aprendiendo, siempre asegurando. ⚡</em></p>
