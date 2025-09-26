@@ -36,7 +36,7 @@
 
 ---
 
-## Frameworks and Libraries
+### Frameworks and Libraries
 <p align="center">
 	<a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=spring,react,nodejs,bootstrap,angular" />
