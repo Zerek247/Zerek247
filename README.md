@@ -39,6 +39,7 @@
   </a>
 </p>
 
+
 ---
 
 ### 📫 Get in touch
@@ -48,6 +49,9 @@
   </a>
 	<a href="https://www.linkedin.com/in/arturo-rmzt">
     <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+	<a href="mailto:arturo.ramzt@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
 
