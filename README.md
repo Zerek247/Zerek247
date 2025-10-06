@@ -93,6 +93,10 @@
 	<a href="mailto:arturo.ramzt@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
+	</a>
+	<a href="https://www.instagram.com/arthurl_dz">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
 </p>
 
 <p align="center"><em>Siempre aprendiendo, siempre asegurando. ⚡</em></p>
